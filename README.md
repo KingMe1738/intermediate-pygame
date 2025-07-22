@@ -92,6 +92,8 @@ Ask Copilot:
 
 ### 🔊 Step 7: Add Sound Effects
 
+> **Note:** Sound effects will only work if you are running VS Code locally. They do not work in GitHub Codespaces.
+
 Ask Copilot:
 
 > “Play a sound when the ball hits a paddle or when someone scores.”
